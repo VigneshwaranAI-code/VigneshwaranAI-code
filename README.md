@@ -62,7 +62,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXd2bXI2c2gwaWgzaTZwYzE1eHI1dmM1am43MmF5aW5tc3M4ZGVqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eUM7J1QoMoInO5gTDR/giphy.gif"  />
+  <img height="200" src="https://analyticsindiamag.com/wp-content/uploads/2022/01/ezgif.com-gif-maker-17.gif"  />
 </div>
 
 ###
