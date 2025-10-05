@@ -1,8 +1,28 @@
-<div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZpYXR6MGdscHBucGh0OXdtZDgzcDRhZWUxM29qcHFvZzJpcjUwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ueyTtY28VKYfd6CFoS/giphy.gif"  />
-</div>
+<img align="left" height="100" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRkbDFkd2FxNjlnNmN5ajVlN3A3aGJiZTRvank3ZGdjcmk3Y2ozcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kfbT2rQZhdAFMPBjv6/giphy.gif"  />
 
 ###
+
+<img align="left" height="100" src="https://media.giphy.com/media/AB2tJ2sKGJc1qMwBjx/giphy.gif"  />
+
+###
+
+<img align="left" height="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnh3MDA5MTJ6YzNmeWZ3YTE1MGd4cDk3NGdlOXprM3hsb21laWVhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H0xZHg3iPMIiko8wrN/giphy.gif"  />
+
+###
+
+<img align="left" height="110" src="https://media.giphy.com/media/inDXmAFK1SfoPJZ8gE/giphy.gif"  />
+
+###
+
+<img align="left" height="110" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9leDFhNGZocWtlZmtjNm9jYTdkbjN2bXQyOWhnZnNvbDkydHM4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d4He8F9bZx4ThhjkjV/giphy.gif"  />
+
+###
+
+<img align="left" height="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZxNWFjOHh0d3Jnc3dvYXowaW80em1qYmgxbTZyZXF5bnpjc3p1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DLLmMPrzP5965bYPdD/giphy.gif"  />
+
+###
+
+<br clear="both">
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&text=Vigneshwaran&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&desc=Let%20start%20Deep%20reseach&descSize=20&descAlign=51&descAlignY=90&textBg=false&color=random"  />
@@ -33,7 +53,13 @@
 
 ###
 
-<h3 align="left">👩‍💻  Attention Me</h3>
+<h3 align="left">👩‍💻  I need yours Attention</h3>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm95dDF4eGxiZTY5MjEyeDlhazZmYnl0YWNyM2trYnhkMzVxMTBiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XkinNCk1Tf4NR3EyBA/giphy.gif"  />
+</div>
 
 ###
 
@@ -45,13 +71,7 @@
 
 ###
 
-<img align="left" height="80" src="https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2023/12/07/ezgifcom-resize-3_1701928996.gif"  />
-
-###
-
-<br clear="both">
-
-<img align="left" height="70" src="https://cdn.theatlantic.com/thumbor/tEkKh5_1HK6S13Za_9LQ0wgHFu4=/0x0:960x540/960x540/media/img/mt/2023/11/chat_gpt_md_1/original.gif"  />
+<h4 align="left">Handling  and developing  Large language model</h4>
 
 ###
 
@@ -89,21 +109,76 @@
 
 ###
 
-<img align="left" height="50" src="https://about.fb.com/wp-content/uploads/2024/04/Meta-AI-Expasion_Header.gif"  />
-
-###
-
-<h4 align="left">Handling  and developing  Large language model</h4>
-
-###
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
+<img align="left" height="70" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExams2NDZld3YwbHJ3MXJlODVkN3dydWdxY3AzcjZvbzJ3ZGN5ZDhkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2cPjL0aw7Zx6egt75W/giphy.gif"  />
+
+###
+
+<img align="left" height="70" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhjbHJpYnJhOHY5ZjhyYjAyY21kdzNmNWxiOTB4NWEwaGdveTMzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3AxgS3cJcDtqt39sn/giphy.gif"  />
+
+###
+
+<img align="left" height="70" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY241NmZkYWE1dmlneDV3bDNkOGJ6dGNudmF6YmZpZnc5czlwNjJvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cEe1kOzp5vg8Xw92U1/giphy.gif"  />
+
+###
+
+<img align="left" height="70" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDcyeGVmcDIzb293ZGwyNmc5ZHF0cmFzMzFrM2w3bWNzMTBqYmlncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZcYONukAU7ihKtqJQI/giphy.gif"  />
+
+###
+
+<img align="left" height="70" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVheDViMTJ5d3NobGVrb2trZ2M4djhkZWlubHhvMnZrdWdyYWF2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vF3jbCEGJPfNIAD28m/giphy.gif"  />
+
+###
+
+<img align="left" height="70" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFzODdmNTlqYnYzMjh5bm43NnB3bmY0Y2JoY2k1bHZvNG5sbXh5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fb5kkhQhUQW0lLnA5O/giphy.gif"  />
+
+###
+
+<img align="left" height="70" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZyaW5tcHlxeTZjbjFpeW0xNmdmMDZ5MWR6YzBlazh1cTFibjVmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/08wToMdpYVyQPUbJc1/giphy.gif"  />
+
+###
+
+<img align="left" height="70" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXExMmhwMXpjZjZjZG4wc3BzOWo3OHJpNWU2OG1ubXVkbXhxaWxwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JR09s5kv1ApT6WM76V/giphy.gif"  />
+
+###
+
+<img align="left" height="70" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBmcXV6c3V6aXV3MnRnazdpOXJva3R5ajh6MTZlYXBmcWJ0OXkzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w4kTuxzaW4agblFAY5/giphy.gif"  />
+
+###
+
+<img align="left" height="70" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjE2ejE4dnpnaWE4N2l4bnJkbjk4aHY2bm9xaGtiY252NmFmczVkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jKOhtkeMaECs0KjI3Y/giphy.gif"  />
+
+###
+
+<img align="left" height="70" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdpbjByemxzbThidjc2bWI2czlsaWd5bDlrYzE4bmJ3MzF5dDhvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q3k1EhO0uIyyo96isd/giphy.gif"  />
+
+###
+
+<img align="left" height="70" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndsZDU0YTlsZ2ttdTVtY3Vxa2xweXVzc3pweXpneHBramQ0MWtmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EetutChFkoXfu9O1PN/giphy.gif"  />
+
+###
+
+<img align="left" height="70" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGw0bDJpcjRsOHB5cHBsdHFka3F5c292czVsMno4Yjg3cTB0dnc2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kUSbonI0s9QcARdUYo/giphy.gif"  />
+
+###
+
+<img align="left" height="70" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWVmMjhrOWtvYWV4YWVyMno1ZG44NWx6NHJtZXFvMGtoNXd4aTMyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qij4dIN5wTxFMpQTnY/giphy.gif"  />
+
+###
+
+<img align="left" height="70" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmgxZ2N1OHdyYmFpZXBrcGg3ancxM2swdXgwbnB5b3VsMnVsZzg1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DG8hFpaeHX1pNDsjlC/giphy.gif"  />
+
+###
+
+<img align="left" height="70" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJiYmFuNGZnZnByZzFxMDM0b3NuOWE2ZDRlODE3cG53ZjJnZzgzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YEbmDAdDpcoIImsZ8h/giphy.gif"  />
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vigneshwaran&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vigneshwaran&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Vigneshwaran&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
