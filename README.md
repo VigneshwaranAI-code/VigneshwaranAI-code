@@ -14,6 +14,10 @@
 
 ###
 
+<img align="left" height="110" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 <img align="left" height="110" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZxNWFjOHh0d3Jnc3dvYXowaW80em1qYmgxbTZyZXF5bnpjc3p1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DLLmMPrzP5965bYPdD/giphy.gif"  />
 
 ###
@@ -176,5 +180,13 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Vigneshwaran&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+###
+
+<img align="left" height="110" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<img align="left" height="110" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
