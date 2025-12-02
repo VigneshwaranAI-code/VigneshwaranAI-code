@@ -29,7 +29,7 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&text=Vigneshwaran&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&desc=Let%20start%20Deep%20reseach&descSize=20&descAlign=51&descAlignY=90&textBg=false&color=random"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&text=Vigneshwaran&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&desc=Let%20start%20Deep%20Research&descSize=20&descAlign=51&descAlignY=90&textBg=false&color=random"  />
 </div>
 
 ###
